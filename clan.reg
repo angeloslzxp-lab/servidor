@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\PristonTale]
+
+[HKEY_CURRENT_USER\Software\PristonTale\GameServer]
+"ServerName"="PTL"
+"LogPath"="C:\Logs"
+"SoDDbIP"="PTL\\SQLEXPRESS"
+"SoDDbID"="sa"
+"SoDDbPwd"="#$pdl32xq"
+"SoDDbName"="Sod2DB"
+"ClanDbID"="sa"
+"ClanDbPwd"="#$pdl32xq"
+"ClanDbName"="ClanDB"
+"ClanDbIP"="PTL\\SQLEXPRESS"

@@ -1,0 +1,66 @@
+ItemSelector:
+Everything=
+CRONUS =DA127,DA227,DS124,DB124,DG124,OA224,OM125,OR127,OA127,OS114,WA124,WA125,WC124,WH125,WH126,WM125,WM126,WP125,WS126,WS227,WS228,WT125
+MITOLOGICA =DA128,DA228,DS125,DB125,DG125,OA225,OM125,OR127,OA127,OS118,WA127,WC126,WH128,WM128,WP127,WS128,WS230,WT127
+MORTAL =DA129,DA229,DS126,DB126,DG126,OA226,OM125,OR127,OA127,OS115,WA128,WC127,WH129,WM129,WP128,WS129,WS231,WT128
+FLAMEJANTE/VERUS =DA302,DA402,DS127,DB127,DB128,DG127,DG128,OA227,OA228,OM125,OR201,OA128,OS116,WA129,WC128,WH130,WM130,WP129,WS130,WS232,WT129
+ABISMO =DA303,DA403,DS128,DB129,DG130,OA229,OM125,OR201,OA128,OS117,WA130,WC129,WH131,WM131,WP130,WS131,WS233,WT130
+NEGRAS =WA126,WC125,WH127,WM127,WP126,WS127,WS229,WT126
+BossItem=dg231,db231,or131,or132,oa131,oa132
+--Defence--=da,db,dg1,oa2,om,ds
+Armor=da1,da3
+Robe=da2,da4
+Boots=db
+Gauntletss=dg
+Armlets=oa2
+Orb=om
+Shield=ds
+--Weapons--=wp,ws1,ws3,wa,wm,wt,wh,wc,ws2,ws4,wd,wn
+Pike=wp
+Bow=ws1,ws3
+Axe=wa
+Staff/Wand=wm
+Javelin=wt
+Mace=wh
+Claw=wc
+Sword=ws2,ws4
+Fantasma=wn
+Adaga=wd
+--Spick and span--=or,oa1,os
+Ring=or
+Amulet=oa1
+Sheltom=os
+--Others--
+Potions=pm,ps,pl
+Crystals=gp
+Force Orb=fo
+Donation Items=b
+Quest Items=_u,2_,ma,qt,sp,uw
+Event Items=ch,pz,sd,se,sp
+Other=ec
+<End>
+
+MonsterSelector:
+Name=
+Level=0-10
+Level=11-20
+Level=21-30
+Level=31-40
+Level=41-50
+Level=51-60
+Level=61-70
+Level=71-80
+Level=81-90
+Level=91-100
+Level=100-200
+Name=Hopy
+<End>
+
+Server-Path=C:\Servidor\
+Max-Exp=1000000
+Max-Gold=1000000
+Text-Editor=C:\Windows\Notepad.exe
+Drop-warnings=DA120,DA220
+Monster.zhoon not found=False
+Monstereditor: Find maps=False
+Monstereditor: Find Items=False
